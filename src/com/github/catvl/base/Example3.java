@@ -12,8 +12,8 @@ public class Example3 {
         System.out.println("Переменной x изначально присвоенно значение: " + x);
         System.out.println();
 
-        var = var/4;
-        x = x/4;
+        var = var / 4;
+        x = x / 4;
 
         System.out.println("Значение переменной var после деления: " + var);
         System.out.println("Значение переменной x после деления: " + x);
